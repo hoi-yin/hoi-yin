@@ -2,9 +2,9 @@
 
 ## I only know python, why am I here?
 
-## Why are we still here?
+## Working on an ambitious project!
 
-## Just to suffer?
+## sghomework.me
 
 <!--
 **hoi-yin/hoi-yin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
